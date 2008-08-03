@@ -15,10 +15,10 @@ var SBPlugin = {
 
 	loadDoc: function( s, expanded ) {
 		var t = 'nochart';
-		var h = '170'; var w = '215';
-		if (expanded) {t = 'full'; h = '300'; w = '215';}
+		var h = '220'; var w = '210';
+		if (expanded) {t = 'full'; h = '350'; w = '210';}
 		SBPlugin.quoteArray[ s ] = new Date( ).getTime();
-		html = '<iframe width="'+w+'" height="'+h+'" src="http://www.sanebull.com/widget_plugin.jsp?sec=10&ticker='+s+'&type='+t+'" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>';
+		html = '<iframe width="'+w+'" height="'+h+'" src="http://www.sanebull.com/widget_stock.jsp?sec=10&ticker='+s+'&type='+t+'" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>';
 		SBPlugin.quoteHtmlArray[ s ] = html;
 		var spans = document.getElementsByTagName('span');
 		if (spans) {
