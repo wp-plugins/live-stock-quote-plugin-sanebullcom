@@ -1,0 +1,26 @@
+.sb_quote {
+  text-decoration: none;
+  position: relative;
+  color: #009;
+  z-index: 0;
+}
+
+.sb_quote:hover {
+  text-decoration:none;
+  z-index: 2;
+  text-align: center;
+}
+
+.sb_quote span {
+  display: none;
+  text-decoration: none;
+}
+
+.sb_quote_v {
+  display: block;
+  position: absolute;
+  top: 18px;
+  left: 10px;
+  width: 100px;
+  height: 123px;
+}
