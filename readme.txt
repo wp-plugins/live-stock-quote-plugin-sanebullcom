@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: fshnir
-Tags: stocks, nadsaq, stock market, stock, dow jones, trading
+Tags: stocks, nadsaq, stock market, stock, dow jones, trading, sanebull
 Requires at least: 2.0
 Tested up to: 2.6
 Stable tag: 1.0
@@ -27,4 +27,4 @@ After uploading, activate the plugin through the WP Admin › Plugins page. To use
 
 == Screenshots ==
 
-1. Plugin in action plugin.jpg.
+1. http://www.sanebull.com/images/plugin.jpg
