@@ -15,7 +15,7 @@ By default, we open the Short symbol display, but upon clicking the symbol, a fu
 
 This plugin installation is no different from any other WordPress plugin. All you need to do is unzip the files and upload them to your /wp-content/plugins/ directory.
 
-After uploading, activate the plugin through the WP Admin › Plugins page. To use it, you will need to define the keywords in Options › SaneBull Quote.
+After uploading, activate the plugin through the WP Admin -> Plugins page. To use it, you will need to define the keywords in Options -> SaneBull Quote.
 
 That's it! From now on, whenever you use any of the specified keywords in your posts or pages, they will automatically convert to the SaneBull Live Stock widget.
 
