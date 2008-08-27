@@ -1,4 +1,4 @@
-=== SaneBull Live Stock Quote ===
+=== SaneBull Live Stock Market Quotes ===
 Contributors: fshnir
 Tags: stocks, nadsaq, stock market, stock, dow jones, trading, sanebull
 Requires at least: 2.0
