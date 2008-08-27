@@ -27,4 +27,5 @@ After uploading, activate the plugin through the WP Admin › Plugins page. To use
 
 == Screenshots ==
 
-1. http://www.sanebull.com/images/plugin.jpg
+1. Screenshot sample: ../plugin.jpg
+1. plugin.jpg
