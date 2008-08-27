@@ -36,7 +36,7 @@ function sb_replace($value) {
 		return '<a href="http://sanebull.com/m?symbol=' . $value . '">\\0</a>';
 	}
 
-	return '<a href="#" class="sb_quote" onmouseover="SBPlugin.showQuote(this,  \''.$value.'\' )" onclick="SBPlugin.expandQuote( \''.$value.'\' );return false;">\\0<span id="sb_ticker" class="' . $value . '" ></span></a>';
+	return '<a href="http://sanebull.com/m?symbol=' . $value . '" class="sb_quote" onmouseover="SBPlugin.showQuote(this,  \''.$value.'\' )" onclick="SBPlugin.expandQuote( \''.$value.'\' );return false;">\\0<span id="sb_ticker" class="' . $value . '" ></span></a>';
 }
    
 // Javascript and CSS header insert. //
