@@ -27,5 +27,5 @@ After uploading, activate the plugin through the WP Admin -> Plugins page. To us
 
 == Screenshots ==
 
-1. Plugin in action: ../plugin-1.jpg
-1. Plugin in action: plugin-2.jpg
+1. Plugin in action `/plugin-1.jpg`
+2. Plugin in action `plugin-2.jpg`
